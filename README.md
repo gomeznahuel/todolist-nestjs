@@ -14,10 +14,6 @@ $ npm install
 npm run dev:start
 ```
 
-## Run with Postman
-```bash
-
-
 ## Stay in touch
 - Author - [Nest](https://nestjs.com/)
 - Twitter - [@nestframework](https://twitter.com/nestframework)
